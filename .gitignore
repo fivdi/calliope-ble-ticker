@@ -1,0 +1,7 @@
+*~
+*-lock.json
+build
+yotta_targets
+yotta_modules
+node_modules
+

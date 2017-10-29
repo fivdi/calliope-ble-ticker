@@ -1,0 +1,12 @@
+{
+  "name": "ble-digital-clock",
+  "version": "1.0.0",
+  "description": "Calliope mini ble digital clock",
+  "main": "ble-digital-clock.js",
+  "author": "fivdi",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
+}
+

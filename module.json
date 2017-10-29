@@ -1,0 +1,12 @@
+{
+  "name": "calliope-ble-ticker",
+  "version": "1.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Display messages received via bluetooth",
+  "author": "fivdi",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "calliope-mini/microbit#v2.0.0-rc8-calliope-1.0.3"
+  }
+}
